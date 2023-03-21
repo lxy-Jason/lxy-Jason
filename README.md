@@ -1,4 +1,8 @@
 ### Hi there 👋
+李湘粤
+信息管理与信息系统专业
+大三在读
+致力于成为优秀的前端工程师
 
 <!--
 **lxy-Jason/lxy-Jason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
